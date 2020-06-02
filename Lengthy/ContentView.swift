@@ -63,7 +63,7 @@ struct ContentView: View {
                             Text("\(self.units[$0])")
                         }
                     }).pickerStyle(SegmentedPickerStyle())
-                    Text("un2: \(outMeasure.value)")
+                    Text("Converted: \(outMeasure.value)")
                 }
             }
         .navigationBarTitle("Lenghty Convert")
