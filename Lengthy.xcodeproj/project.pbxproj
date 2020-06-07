@@ -101,9 +101,10 @@
 		1556A80F24842010007748E2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = "";
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1140;
-				ORGANIZATIONNAME = Genesis;
+				ORGANIZATIONNAME = AF3;
 				TargetAttributes = {
 					1556A81624842010007748E2 = {
 						CreatedOnToolsVersion = 11.4.1;
@@ -294,7 +295,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Genesis.Lengthy;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.af3.lengthy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,7 +316,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Genesis.Lengthy;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.af3.lengthy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
